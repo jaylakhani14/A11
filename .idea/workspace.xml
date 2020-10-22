@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d1d9e8f-14da-4c88-b773-30e7d64c77f6" name="Default Changelist" comment="">
+    <list default="true" id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toobin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/town_hall_logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/sorkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="1iprbyGEx3JaKxoIyZA52XWoOso" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1jDHFcQdvRpQh1S350GV7zUMxjc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,41 +47,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/town_hall_1/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d1d9e8f-14da-4c88-b773-30e7d64c77f6" name="Default Changelist" comment="" />
-      <created>1602615451159</created>
+      <changelist id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="" />
+      <created>1603331639421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602615451159</updated>
-      <workItem from="1602615452883" duration="3698000" />
-      <workItem from="1602815185899" duration="87000" />
-      <workItem from="1602815941785" duration="669000" />
-      <workItem from="1602819616396" duration="10000" />
-      <workItem from="1602820042052" duration="19000" />
-      <workItem from="1602820064455" duration="15000" />
-      <workItem from="1602910611365" duration="175000" />
-      <workItem from="1602981786255" duration="824000" />
-      <workItem from="1603061647624" duration="39000" />
+      <updated>1603331639421</updated>
+      <workItem from="1603331640493" duration="1446000" />
     </task>
     <servers />
   </component>
@@ -95,20 +81,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="537" y="126" key="#Inspections" timestamp="1602617123044">
-      <screen x="0" y="22" width="1440" height="794" />
-    </state>
-    <state x="537" y="126" key="#Inspections/0.22.1440.794@0.22.1440.794" timestamp="1602617123044" />
-    <state x="716" y="393" key="Github.ShareDialog" timestamp="1602618942520">
-      <screen x="0" y="22" width="1440" height="791" />
-    </state>
-    <state x="716" y="393" key="Github.ShareDialog/0.22.1440.791@0.22.1440.791" timestamp="1602618942520" />
-    <state x="511" y="201" key="Github.UntrackedFilesDialog" timestamp="1602619027139">
-      <screen x="0" y="22" width="1440" height="791" />
-    </state>
-    <state x="511" y="201" key="Github.UntrackedFilesDialog/0.22.1440.791@0.22.1440.791" timestamp="1602619027139" />
   </component>
 </project>

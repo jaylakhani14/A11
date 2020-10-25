@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="index.html" />
+    <list default="true" id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +70,9 @@
       <workItem from="1603333553495" duration="6000" />
       <workItem from="1603333589541" duration="46000" />
       <workItem from="1603514795490" duration="6075000" />
+      <workItem from="1603522505225" duration="378000" />
+      <workItem from="1603586023381" duration="2000" />
+      <workItem from="1603586516321" duration="457000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <created>1603333241888</created>
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603522345676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index.html">
+      <created>1603522532007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603522532007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,10 +133,14 @@
       <screen x="0" y="22" width="1440" height="791" />
     </state>
     <state x="369" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.791@0.22.1440.791" timestamp="1603333409440" />
-    <state x="550" y="173" key="Vcs.Push.Dialog.v2" timestamp="1603522359281">
+    <state x="288" y="62" key="DiffContextDialog" timestamp="1603522573215">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="550" y="173" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603522359281" />
+    <state x="288" y="62" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1603522573215" />
+    <state x="550" y="173" key="Vcs.Push.Dialog.v2" timestamp="1603522575958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="550" y="173" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603522575958" />
     <state x="550" y="174" key="Vcs.Push.Dialog.v2/0.22.1440.791@0.22.1440.791" timestamp="1603333254753" />
     <state x="743" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603333145038">
       <screen x="0" y="22" width="1440" height="791" />

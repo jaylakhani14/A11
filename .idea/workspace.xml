@@ -19,8 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="index.html">
+    <list default="true" id="88d279b3-9d4f-4467-bed2-60497272a684" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20,_10_19_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20,_10_19_PM_[Default_Changelist]/town_hall_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20__10_19_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jDHFcQdvRpQh1S350GV7zUMxjc" />
+  <component name="ProjectId" id="1jXPK12Ic41gtb3PnE3oQEznFDS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,72 +46,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9a186ec-657c-4638-9613-2383c7907ad2" name="Default Changelist" comment="" />
-      <created>1603331639421</created>
+      <changelist id="88d279b3-9d4f-4467-bed2-60497272a684" name="Default Changelist" comment="" />
+      <created>1603947396093</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603331639421</updated>
-      <workItem from="1603331640493" duration="1743000" />
-      <workItem from="1603333416558" duration="14000" />
-      <workItem from="1603333481832" duration="5000" />
-      <workItem from="1603333506349" duration="6000" />
-      <workItem from="1603333553495" duration="6000" />
-      <workItem from="1603333589541" duration="46000" />
-      <workItem from="1603514795490" duration="6075000" />
-      <workItem from="1603522505225" duration="378000" />
-      <workItem from="1603586023381" duration="2000" />
-      <workItem from="1603586516321" duration="457000" />
-      <workItem from="1603610275060" duration="42000" />
-      <workItem from="1603611163780" duration="6000" />
+      <updated>1603947396093</updated>
+      <workItem from="1603947397423" duration="6000" />
+      <workItem from="1603947426119" duration="119000" />
+      <workItem from="1603947639261" duration="407000" />
     </task>
-    <task id="LOCAL-00001" summary="index.html">
-      <created>1603333241888</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1603333241888</updated>
-    </task>
-    <task id="LOCAL-00002" summary="index.html">
-      <created>1603522322393</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1603522322393</updated>
-    </task>
-    <task id="LOCAL-00003" summary="index.html">
-      <created>1603522345676</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603522345676</updated>
-    </task>
-    <task id="LOCAL-00004" summary="index.html">
-      <created>1603522532007</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1603522532007</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,31 +78,14 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="135" key="#Inspections" timestamp="1603519126881">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="580" y="323" key="Github.ShareDialog" timestamp="1603947864180">
+      <screen x="0" y="22" width="1440" height="794" />
     </state>
-    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1603519126881" />
-    <state x="369" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603333409440">
-      <screen x="0" y="22" width="1440" height="791" />
+    <state x="580" y="323" key="Github.ShareDialog/0.22.1440.794@0.22.1440.794" timestamp="1603947864180" />
+    <state x="519" y="317" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603947816393">
+      <screen x="0" y="22" width="1440" height="794" />
     </state>
-    <state x="369" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.791@0.22.1440.791" timestamp="1603333409440" />
-    <state x="288" y="62" key="DiffContextDialog" timestamp="1603522573215">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="288" y="62" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1603522573215" />
-    <state x="550" y="173" key="Vcs.Push.Dialog.v2" timestamp="1603522575958">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="550" y="173" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603522575958" />
-    <state x="550" y="174" key="Vcs.Push.Dialog.v2/0.22.1440.791@0.22.1440.791" timestamp="1603333254753" />
-    <state x="743" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603333145038">
-      <screen x="0" y="22" width="1440" height="791" />
-    </state>
-    <state x="743" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.22.1440.791@0.22.1440.791" timestamp="1603333145038" />
+    <state x="519" y="317" key="git4idea.remote.GitConfigureRemotesDialog/0.22.1440.794@0.22.1440.794" timestamp="1603947816393" />
   </component>
 </project>

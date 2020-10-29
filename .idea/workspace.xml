@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d279b3-9d4f-4467-bed2-60497272a684" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20,_10_19_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20,_10_19_PM_[Default_Changelist]/town_hall_logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_21_20__10_19_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A11.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic.html" afterDir="false" />
+    <list default="true" id="88d279b3-9d4f-4467-bed2-60497272a684" name="Default Changelist" comment="edited">
+      <change beforePath="$PROJECT_DIR$/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +52,16 @@
       <updated>1603947396093</updated>
       <workItem from="1603947397423" duration="6000" />
       <workItem from="1603947426119" duration="119000" />
-      <workItem from="1603947639261" duration="407000" />
+      <workItem from="1603947639261" duration="459000" />
     </task>
+    <task id="LOCAL-00001" summary="edited">
+      <created>1603948103088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603948103088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,11 +79,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="580" y="323" key="Github.ShareDialog" timestamp="1603947864180">
       <screen x="0" y="22" width="1440" height="794" />
     </state>
     <state x="580" y="323" key="Github.ShareDialog/0.22.1440.794@0.22.1440.794" timestamp="1603947864180" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603948112569">
+      <screen x="0" y="22" width="1440" height="794" />
+    </state>
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.22.1440.794@0.22.1440.794" timestamp="1603948112569" />
     <state x="519" y="317" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603947816393">
       <screen x="0" y="22" width="1440" height="794" />
     </state>

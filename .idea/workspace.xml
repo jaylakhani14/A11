@@ -20,12 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d279b3-9d4f-4467-bed2-60497272a684" name="Default Changelist" comment="edited">
-      <change beforePath="$PROJECT_DIR$/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -52,7 +60,7 @@
       <updated>1603947396093</updated>
       <workItem from="1603947397423" duration="6000" />
       <workItem from="1603947426119" duration="119000" />
-      <workItem from="1603947639261" duration="459000" />
+      <workItem from="1603947639261" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="edited">
       <created>1603948103088</created>
@@ -61,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603948103088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edited">
+      <created>1603948148185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603948148185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,10 +103,10 @@
       <screen x="0" y="22" width="1440" height="794" />
     </state>
     <state x="580" y="323" key="Github.ShareDialog/0.22.1440.794@0.22.1440.794" timestamp="1603947864180" />
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603948112569">
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603948157794">
       <screen x="0" y="22" width="1440" height="794" />
     </state>
-    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.22.1440.794@0.22.1440.794" timestamp="1603948112569" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.22.1440.794@0.22.1440.794" timestamp="1603948157794" />
     <state x="519" y="317" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603947816393">
       <screen x="0" y="22" width="1440" height="794" />
     </state>
